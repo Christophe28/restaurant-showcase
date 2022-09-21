@@ -1,3 +1,4 @@
+import "./style/index.scss";
 
 function App() {
   return (
